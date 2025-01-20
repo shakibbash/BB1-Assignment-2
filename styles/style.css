@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.hide{
+    visibility: none;
+}
 main>section{
     margin-top: 60px;
 }
@@ -11,4 +14,178 @@ main>section{
 main {
     max-width: 1440px;
     margin: 0 auto;
+}
+
+.display-flex{
+    display: flex;
+}
+body{
+    font-family: Quicksand;
+}
+.bg-1{
+    color:rgb(254, 163, 1)
+}
+.bg-2{
+color:rgb(1, 172, 253);
+}
+.bg-3{
+color: rgb(5, 212, 223);
+}
+.bg-4{
+    color:rgb(93, 88, 239)
+}
+/* navbar and header styles */
+
+.navbar{
+    max-width: 1160px;
+    margin: 18px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+nav>img{
+    width: 62px;
+}
+.nav-logo{
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}
+.nav-items {
+    list-style: none;
+    margin-right: 30px;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-weight: 500;
+
+}
+.contact-btn{
+    width: 197px;
+    border-radius: 12px;
+
+/* Orange */
+background-color: rgb(254, 163, 1);
+color: white;
+padding: 10px;
+font-size: 1.25rem;
+font-weight: 600;
+border: none;
+}
+
+.banner{
+    max-width:1158.61px;
+    margin:0 auto;
+}
+.banner{
+    justify-content: center;
+    align-items: center;
+}
+.banner-img>img{
+    width: 100%;
+}
+.banner-content{
+    max-width: 640px;
+    margin-right: 50px;
+}
+.banner-title{
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+.banner-info{
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin: 24px 0;
+}
+.enroll-btn{
+    width: 197px;
+    padding: 10px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    /* Black */
+    background: rgb(17, 17, 17);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* smaller screen devices */
+@media screen and (max-width:576px) {
+.navbar-title,.nav-items,.nav-link,.contact-btn{
+    display: none;
+}
+/* body{
+    border: 1px solid red;
+} */
+.banner{
+    flex-direction: column-reverse;
+    /* margin: 0 10px; */
+ 
+}
+
+.banner-content{
+    text-align: center;
+    margin-right: 0px;
+    /* margin-left:10px; */
+}
+.banner-title{
+    font-size: 2.3rem;
+}
+.banner-img{
+    width: 336.58px;
+}
+.banner-info{
+    font-size: 1rem;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* medium devices */
+@media screen and (min-width:576px) and (max-width:992px) {
+.navbar,.banner{
+    margin:10px 50px;
+}
+.banner-title{
+    font-size: 2.3rem;
+}
+.banner-content{
+    margin-top: 20px;
+}
+.banner-img{
+    width: 336.58px;
+}
+.banner-info{
+    font-size: 1rem;
+}
 }
