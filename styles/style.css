@@ -81,7 +81,8 @@ border: none;
 }
 .hr{
     display:none;
-    background-color: rgb(254, 163, 1);
+    border: 1px solid  rgb(254, 163, 1);
+
 }
 
 .banner{
