@@ -14,7 +14,7 @@ You can view the live version of this webpage here: [Kids Education Webpage](htt
 ## 📸 Screenshots
 
 ### Full Webpage (Desktop View)
-![Full Webpage Desktop View]([![Image](https://github.com/shakibbash/BB1-Assignment-2/blob/main/assets/screenshot_1737490792905.png))  
+
 <img  src="https://i.postimg.cc/W37cC06R/screenshot-1737490792905.png">
 
 
