@@ -21,8 +21,8 @@ You can view the live version of this webpage here: [Kids Education Webpage](htt
 ---
 
 ### Mobile-Responsive View
-![Mobile View](./path-to-your-mobile-image.png)  
-*(Replace `./path-to-your-mobile-image.png` with the actual file path or URL for the mobile-responsive screenshot.)*
+
+<img src="https://i.postimg.cc/VsBqbk1H/screenshot-1737492802969.png">
 
 ---
 
