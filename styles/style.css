@@ -258,7 +258,7 @@ background: rgb(255, 255, 255);
     background: rgb(255, 255, 255);
     border-radius: 16px;
 }
-.story-box-6.story-box-7{
+.story-box-6,.story-box-7{
     display: none;
 }
 .story-title-1{
@@ -340,7 +340,7 @@ font-size: 1rem;
 font-weight: 500;
 border: none;
 position: absolute;
-top: 150px;
+top: 470px;
 margin-left: 25px;
 }
 .story-6-btn{
