@@ -14,8 +14,8 @@ You can view the live version of this webpage here: [Kids Education Webpage](htt
 ## 📸 Screenshots
 
 ### Full Webpage (Desktop View)
-![Full Webpage Desktop View](./path-to-your-desktop-image.png)  
-*(Replace `./path-to-your-desktop-image.png` with the actual file path or URL for the full desktop screenshot.)*
+![Full Webpage Desktop View](![Image](https://github.com/user-attachments/assets/e605386c-5246-4452-8abb-47fdb476e978))  
+
 
 ---
 
