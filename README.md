@@ -87,7 +87,7 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the Shakib Hossain. See the `LICENSE` file for more details.
+This project is licensed under Shakib Hossain(github:shakibbash). See the `LICENSE` file for more details.
 
 ---
 
