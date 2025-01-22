@@ -21,8 +21,7 @@ You can view the live version of this webpage here: [Kids Education Webpage](htt
 ---
 
 ### Mobile-Responsive View
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/tM64P3m/chrome-screenshot-Jan-22-2025-2-55-21-PM-GMT-06-00-2.png" alt="chrome-screenshot-Jan-22-2025-2-55-21-PM-GMT-06-00-2" border="0" /></a>
+<img src="https://i.postimg.cc/NM7jzN77/chrome-screenshot-Jan-22-2025-2-55-21-PM-GMT-06-00-2.png">
 
 ---
 
