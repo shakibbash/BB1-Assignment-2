@@ -22,7 +22,7 @@ You can view the live version of this webpage here: [Kids Education Webpage](htt
 
 ### Mobile-Responsive View
 
-<img src="https://ibb.co.com/kgTx6MH">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/tM64P3m/chrome-screenshot-Jan-22-2025-2-55-21-PM-GMT-06-00-2.png" alt="chrome-screenshot-Jan-22-2025-2-55-21-PM-GMT-06-00-2" border="0" /></a>
 
 ---
 
